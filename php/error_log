@@ -1,0 +1,1 @@
+[12-Apr-2023 07:30:02 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home1/ictmu6ya/public_html/hcd/faculty-directory/php/faculties.php on line 244

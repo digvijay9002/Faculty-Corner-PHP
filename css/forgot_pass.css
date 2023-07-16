@@ -1,0 +1,101 @@
+
+  body{
+    background-color: rgb(1,167,190);
+    color: black;
+  
+   
+}
+
+form{
+    height: 340px;
+    width: 400px;
+    background-color: white;
+    background-color: rgb(255,255,255,0.11);
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 45%;
+    left: 50%;
+    border-radius: 10px;
+    backdrop-filter: blur(50px);
+    border: 2px solid white;
+    box-shadow: 0 0 40px rgba(8,7,16,0.6);
+    padding: 10px 40px;
+    box-shadow: 7px 12px 5px 3px black;
+}
+
+form {
+    font-family: 'Ubuntu Mono', monospace;
+    color: white;
+    letter-spacing: 0.4px;
+    font-weight:700;
+    border-color: black;
+    background-color: rgb(243, 240, 240);
+    color: black;
+    
+}
+form h3{
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 40px;
+    text-align: center;
+    font-family:'Josefin Sans', 'sans-serif';
+    letter-spacing: 1.3px;
+    
+}
+
+label{
+
+    display: block;
+    margin-top: 50px;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Ubuntu Mono', monospace;
+    border-color: black;
+
+    
+}
+.Signininput{
+    height: 50px;
+    width: 100%;
+    background-color: rgba(211, 200, 200, 0.6);
+    border-radius: 12px;
+    padding: 10px;
+    margin-top: 8px;
+    font-size: 14px;
+    font-weight: 300;
+    color: black;
+}
+::placeholder{
+    color: black;
+}
+button{
+    margin: 0.8px;
+    margin-top: 15px;
+    width: 21%;
+    background-color: #ffffff;
+    color: #080710;
+    padding: 0.8px;
+    
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 18px;
+    font-family: 'Century Gothic';
+    border-color: black ;
+    text-align: center;
+    
+}
+.btn:hover {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+  }
+
+.signupCSS
+{
+   padding-left:69%;
+   color: white;
+   text-decoration: none;
+  
+   
+}
+
+
